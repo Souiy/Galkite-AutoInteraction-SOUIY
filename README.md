@@ -46,9 +46,8 @@ Buat file-file berikut di folder project:
 #### 📄 accounts.txt
 Berisi private key wallet (1 private key per baris)
 ```
-0xabc123... (private key 1)
-0xdef456... (private key 2)
-...
+nano accounts.txt
+
 ```
 
 #### 📄 pesan_professor.txt
@@ -70,9 +69,8 @@ Bagaimana cara memulai investasi crypto?
 #### 📄 proxy.txt (opsional)
 Berisi daftar proxy (1 proxy per baris, format: http://user:pass@ip:port)
 ```
-http://user1:pass1@1.2.3.4:8080
-http://user2:pass2@5.6.7.8:8080
-...
+nano proxy.txt
+
 ```
 
 ## 🏃‍♂️ Cara Menjalankan
