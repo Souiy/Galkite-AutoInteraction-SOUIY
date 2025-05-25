@@ -1,6 +1,6 @@
 # 📝 Galkite AutoInteraction - README
 
-![Banner](./assets/banner.png) *(Gambar ilustrasi)*
+![Banner](./images/banner.png) *(Gambar ilustrasi)*
 
 ## 📌 Deskripsi
 Galkite AutoInteraction adalah script otomatis untuk berinteraksi dengan platform Kite AI, melakukan:
